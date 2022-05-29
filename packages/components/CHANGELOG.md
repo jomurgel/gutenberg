@@ -9,6 +9,7 @@
 ### Internal
 
 -   `FormTokenField`: Convert to TypeScirpt and refactor to functional component ([#41216](https://github.com/WordPress/gutenberg/pull/41216)).
+-   `InputControl`: Add tests and update to use `@testing-library/user-event` ([#41421](https://github.com/WordPress/gutenberg/pull/41421)).
 
 ## 19.12.0 (2022-06-01)
 
