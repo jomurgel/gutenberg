@@ -30,7 +30,7 @@
 -   `BoxControl`: Update unit tests to use `@testing-library/user-event` ([#41422](https://github.com/WordPress/gutenberg/pull/41422)).
 -   `Surface`: Convert to TypeScript ([#41212](https://github.com/WordPress/gutenberg/pull/41212)).
 -   `Autocomplete` updated to satisfy `react/exhuastive-deps` eslint rule ([#41382](https://github.com/WordPress/gutenberg/pull/41382))
--   `CustomGradietnBar` updated to satisfy `react/exhuastive-deps` eslint rule ([#41463](https://github.com/WordPress/gutenberg/pull/41463))
+-   `CustomGradientBar` updated to satisfy `react/exhuastive-deps` eslint rule ([#41463](https://github.com/WordPress/gutenberg/pull/41463))
 
 ### Experimental
 
